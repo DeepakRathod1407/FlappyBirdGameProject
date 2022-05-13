@@ -24,7 +24,9 @@ def welcomeScreen():
     im trying to pull requests on IDE
     changes are now showing on IDE . it works!!
     
-    Just to confirm, are you sure its working? 
+    Just to confirm, are you sure its working?
+
+    affirmative!!
     """
     playerx = int(SCREENWIDTH/5)
     playery = int((SCREENHEIGHT - GAME_SPRITES['player'].get_height())/2)
