@@ -52,7 +52,8 @@ def mainGame():
     playery = int(SCREENWIDTH/2)
     basex = 0
 '''
-changes are accepted on github
+changes are accepted on github.
+im trying to pull request on IDE
 '''
 
 if __name__ == '__main__':
