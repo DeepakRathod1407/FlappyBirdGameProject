@@ -22,6 +22,7 @@ def welcomeScreen():
     """
     This will show welcome image on the screen
     im trying to pull requests on IDE
+    changes are now showing on IDE . it works!!
     """
     playerx = int(SCREENWIDTH/5)
     playery = int((SCREENHEIGHT - GAME_SPRITES['player'].get_height())/2)
