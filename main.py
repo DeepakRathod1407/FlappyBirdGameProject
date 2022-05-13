@@ -51,7 +51,9 @@ def mainGame():
     playerx = int(SCREENWIDTH/5)
     playery = int(SCREENWIDTH/2)
     basex = 0
-
+'''
+changes are accepted on github
+'''
 
 if __name__ == '__main__':
 
