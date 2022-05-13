@@ -27,6 +27,8 @@ def welcomeScreen():
     Just to confirm, are you sure its working?
 
     affirmative!!
+    
+    thanks for your help we can stop now as this is working
     """
     playerx = int(SCREENWIDTH/5)
     playery = int((SCREENHEIGHT - GAME_SPRITES['player'].get_height())/2)
